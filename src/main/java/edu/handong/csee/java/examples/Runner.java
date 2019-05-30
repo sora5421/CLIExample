@@ -41,7 +41,7 @@ public class Runner {
 			if(verbose) {
 				// TODO list all files in the path
 				for(String fNm : files){
-				 System.out.println("fileName :"+fNm);//파일명
+				 System.out.println("fileName:"+fNm);//파일명
 				}
 				System.out.println("Your program is terminated. (This message is shown because you turned on -v option!");
 			}
